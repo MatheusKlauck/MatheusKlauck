@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatheusKlauck?tab=repositories](https://github.com/MatheusKlauck?tab=repositories)
 
-- 📄 Know about my experiences [I work with C# (.NET), Typescript (react.js).. I write some code with python too, while learning about machine learning](I work with C# (.NET), Typescript (react.js).. I write some code with python too, while learning about machine learning)
+- 📄 Know about my experiences **I work most of the time with .NET and React.js. But i've coded some scripts with python too.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
