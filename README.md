@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Klauck</h1>
-<h3 align="center">A brazilian developer with 2 years of professional experience. Always seeking for knowledge, but never left the fundamentals behind!</h3>
+<h3 align="center">A brazilian developer with 4 years of professional experience. Always seeking for knowledge, but never left the fundamentals behind!</h3>
 
-- 🌱 I’m currently learning **Java, OOP, ML**
+- 🌱 Currently on a BSc on Software Engineering @ PUCRS
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatheusKlauck?tab=repositories](https://github.com/MatheusKlauck?tab=repositories)
 
