@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Klauck</h1>
-<h3 align="center">A brazilian developer with 4 years of professional experience. Always seeking for knowledge, but never left the fundamentals behind!</h3>
+<h3 align="center">A brazilian developer with 3 years of professional experience. Always seeking for knowledge, but never left the fundamentals behind!</h3>
 
 - 🌱 Currently on a BSc on Software Engineering @ PUCRS
 
